@@ -1,3 +1,6 @@
+# THIS CODE WILL NO LONGER BE UPDATED BY US, WE RECOMMEND THAT NO ONE USE IT WITHOUT THE NECESSARY PROGRAMMING KNOWLEDGE TO UPDATE IT
+
+
 # Nióbio Cash -Blockchain-Explorer
 Block explorer for Nióbio Cash CryptoNote based cryptocurrency.
 
